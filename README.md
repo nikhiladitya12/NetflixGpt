@@ -4,6 +4,17 @@
 -Header
 -login form
 -signup form
+-routing of app
+-form validation
+-useRef Hook
+-firebase setup
+-Deploying our app to production
+-Create SignUp user account
+-implement sign in user Api
+-created Redux Store with userSlice
+-implemented sign out
+-update profile
+
 
 
 # Features
