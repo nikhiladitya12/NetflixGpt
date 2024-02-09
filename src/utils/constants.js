@@ -3,6 +3,8 @@ export const Logo= "https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-8972
 
 export const USER_AVATAR= "https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png?20201013161117"
 
+export const IMG_CDN_URL= "https://image.tmdb.org/t/p/w500";
+
 export const API_OPTIONS= {
   method: 'GET',
   headers: {
