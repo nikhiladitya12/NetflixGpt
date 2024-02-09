@@ -6,6 +6,7 @@ import Browse from './Browse'
 import { onAuthStateChanged } from 'firebase/auth'
 import { auth } from '../utils/firebase'
 import { addUser, removeUser } from '../utils/userSlice'
+import GPTSearchCompnent from './GPTSearchCompnent'
 
 
 
@@ -21,7 +22,10 @@ const appRouter = createBrowserRouter(
 {
 path:'/browse',
 element:<Browse/>
-}]
+},
+
+
+]
 )
 
 
